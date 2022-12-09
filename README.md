@@ -1,26 +1,21 @@
 # PAS (Projeto Anjos Solidários) 
 
-#####Turma Online 21 - Imersão JavaScript | 2022 | 
+####Turma Online 21 - Imersão JavaScript | 2022 | 
 
 Para desenvolver a aplicação foi utilizado alguns princípios do SOLID , clean Architecture e Testes Unitários.
 
 ## → Proposta do Projeto
 
 Criação de uma aplicação onde as Ongs possam se cadastrar, e após o cadastro adicionar os itens necessitados para doação.
-Ou seja o objetivo é centralizar as necessidades das Ongs, e pessoas com o intuito de doar possam buscar diante da sua
-possibilidade de doação o item e a ong.
+Ou seja o objetivo é centralizar as necessidades das Ongs, e pessoas com o intuito de doar possam buscar diante da sua possibilidade de doação o item e a ong.
 
 
-Exemplos de Postagem das necessidade das redes sociais das Ongs:
+**Exemplos de Postagem das necessidade das redes sociais das Ongs:**
 
-<h1 align="center">
-  <img src="assets/gpaci.png" alt="GPACI" width="500">
-</h1>
+![image](src/assets/gpaci.png)
 
-<h1 align="center">
-  <img src="assets/larSaoVicente.png" alt="Lar São Vicente" width="500">
-</h1>
 
+![image](src/assets/larSaoVicente.png)
 ### Instalando
 
 **Obs**.: É necessário antes de instalar este projeto, ter instalado e rodando node.js:
@@ -32,7 +27,7 @@ Para fazer a instalação das dependências do projeto você pode utilizar o yar
 Para instalá-lo em sua máquina faça os comandos a seguir:
 
 ```bash
-  git clone https://github.com/
+  git clone https://github.com/GabiTavaresV/PAS-projeto-anjp-solid-rio-
  
 ```
 
@@ -88,9 +83,8 @@ Para executá-los e gerar o relatório de cobertura basta executar o comando:
 
 #### Cobertura de Testes :bar_chart:
 
-<h1 align="center">
-  <img src="assets/coverage.png" alt="Cobertura Testes" width="500">
-</h1>
+![image](src/assets/coverage.png)
+
 
 
 
