@@ -12,10 +12,10 @@ Ou seja o objetivo é centralizar as necessidades das Ongs, e pessoas com o intu
 
 **Exemplos de Postagem das necessidade das redes sociais das Ongs:**
 
-![image](src/assets/gpaci.png)
+![image](https://github.com/GabiTavaresV/PAS-projeto-anjp-solid-rio-/blob/main/src/assets/gpaci.png?raw=true)
 
 
-![image](src/assets/larSaoVicente.png)
+![image](https://github.com/GabiTavaresV/PAS-projeto-anjp-solid-rio-/blob/main/src/assets/larSaoVicente.png?raw=true)
 ### Instalando
 
 **Obs**.: É necessário antes de instalar este projeto, ter instalado e rodando node.js:
@@ -83,7 +83,7 @@ Para executá-los e gerar o relatório de cobertura basta executar o comando:
 
 #### Cobertura de Testes :bar_chart:
 
-![image](src/assets/coverage.png)
+![image](https://github.com/GabiTavaresV/PAS-projeto-anjp-solid-rio-/blob/main/src/assets/coverage.png?raw=true)
 
 
 
