@@ -17,7 +17,7 @@ Criação de uma aplicação onde as Ongs possam se cadastrar, e após o cadastr
 Ou seja o objetivo é centralizar as necessidades das Ongs, e pessoas com o intuito de doar possam buscar diante da sua possibilidade de doação o item e a ong.
 
 
-**Exemplos de Postagem das necessidade das redes sociais das Ongs:**
+**Exemplos de postagem nas redes sociais das necessidades das Ongs:**
 
 
 
