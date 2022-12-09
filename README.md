@@ -1,10 +1,17 @@
-# PAS (Projeto Anjos Solidários) 
+
+<p align="center">
+  <h2 align="center">PAS (Projeto Anjos Solidários)  </h2>
 
 #### Turma Online 21 - Imersão JavaScript | 2022 | 
 
-Para desenvolver a aplicação foi utilizado alguns princípios do SOLID , clean Architecture e Testes Unitários.
+ <p align="center">
+    Para desenvolver a aplicação foi utilizado alguns princípios do SOLID , clean Architecture e Testes Unitários.
+    <br />
+  </p>
+</p>
 
-## → Proposta do Projeto
+## :notebook_with_decorative_cover: Proposta do Projeto
+
 
 Criação de uma aplicação onde as Ongs possam se cadastrar, e após o cadastro adicionar os itens necessitados para doação.
 Ou seja o objetivo é centralizar as necessidades das Ongs, e pessoas com o intuito de doar possam buscar diante da sua possibilidade de doação o item e a ong.
@@ -12,11 +19,20 @@ Ou seja o objetivo é centralizar as necessidades das Ongs, e pessoas com o intu
 
 **Exemplos de Postagem das necessidade das redes sociais das Ongs:**
 
+
+
 ![image](https://github.com/GabiTavaresV/PAS-projeto-anjp-solid-rio-/blob/main/src/assets/gpaci.png?raw=true)
 
 
+
+
 ![image](https://github.com/GabiTavaresV/PAS-projeto-anjp-solid-rio-/blob/main/src/assets/larSaoVicente.png?raw=true)
-### Instalando
+
+### :notebook_with_decorative_cover: Modelagem das Classes:
+
+![image]()
+
+### :notebook_with_decorative_cover: Instalando:
 
 **Obs**.: É necessário antes de instalar este projeto, ter instalado e rodando node.js:
 
@@ -31,7 +47,7 @@ Para instalá-lo em sua máquina faça os comandos a seguir:
  
 ```
 
-### Baixando dependências
+### :notebook_with_decorative_cover: Baixando dependências:
 
 Execute o comando no terminal:
 
@@ -39,7 +55,8 @@ Execute o comando no terminal:
   yarn ou npm install
 ```
 
-###  Executando o projeto
+### :notebook_with_decorative_cover: Executando o projeto:
+###  
 
 Para rodar o projeto, execute o comando:
 
@@ -47,11 +64,10 @@ Para rodar o projeto, execute o comando:
   node src/index.js
 ```
 
+### :notebook_with_decorative_cover: Testes:
 
 
-### Testes
-
-No pasta 
+Na pasta 
 ###### → src
 ###### → test
 Exitens alguns arquivos com a extensão .spec.js onde se encontram alguns testes  unitários do Projeto.
@@ -88,7 +104,7 @@ Para executá-los e gerar o relatório de cobertura basta executar o comando:
 
 
 
-#### Autora
 
-Gabriela Tavares
-Email: gabriela.ttavares@gmail.com
+
+- [Gabriela Tavares ](https://github.com/GabiTavaresV)
+- [Meu e-mail ](gabriela.ttavares@gmail.com)
