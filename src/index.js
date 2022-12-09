@@ -27,12 +27,22 @@ const ongsList = new OngList();
 ongsList.addList(ong1);
 ongsList.addList(ong2);
 
+console.log("[LISTA DE ONGS -- >>]", ongsList.ongsList);
+
 const item1 = new Item("Arroz", "Comida", "100kg");
 const item2 = new Item("Fralda", "Tamanho P,M e G", "50");
+const item3 = new Item("Bolacha Maisena", "Para o café da manhã", "80 pacotes");
 
 ong1.addItem(item1);
 ong1.addItem(item2);
+ong2.addItem(item3);
 
-console.log(ong1);
+console.log(
+  "[BUSCA NA LISTA DE ONGS POR NOME -->>]",
+  ongsList.getOngByName("Creche Maria Claro")
+);
 
-console.log(ongsList.getOngByName("Creche Maria Claro"));
+console.log(
+  "[BUSCA NA LISTA DE ONGS POR CIDADE -->>]",
+  ongsList.getOngByCity("Itapetininga")
+);
