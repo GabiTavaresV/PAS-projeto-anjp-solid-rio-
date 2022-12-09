@@ -30,7 +30,7 @@ Ou seja o objetivo é centralizar as necessidades das Ongs, e pessoas com o intu
 
 ### :notebook_with_decorative_cover: Modelagem das Classes:
 
-![image]()
+![image](https://github.com/GabiTavaresV/PAS-projeto-anjp-solid-rio-/blob/main/src/assets/classes.png?raw=true)
 
 ### :notebook_with_decorative_cover: Instalando:
 
@@ -61,7 +61,7 @@ Execute o comando no terminal:
 Para rodar o projeto, execute o comando:
 
 ```bash
-  node src/index.js
+  node src/index.js ou npm run dev
 ```
 
 ### :notebook_with_decorative_cover: Testes:
