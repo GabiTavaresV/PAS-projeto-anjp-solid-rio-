@@ -12,7 +12,7 @@ describe("Ong", () => {
     "www.teste.com"
   );
 
-  it("Should be defined", () => {
+  it("Should be defined Ong Class", () => {
     expect(ong).toEqual(
       expect.objectContaining({
         name: "Ong-Teste",
@@ -20,20 +20,14 @@ describe("Ong", () => {
     );
   });
 
-  it("Should be defined", () => {
-    const item = {
-      item: "Arroz",
-      description: "Para o almoço de final de ano",
-      amount: 50,
-    };
+  it("Should return an error when the item is not an instance of the Item Class", () => {
     expect(() => ong.addItem("item")).toThrow(
       "Item should an instance of the Item class "
     );
   });
 
-  it("Should be defined", () => {
+  it("Should add an item to an ong", () => {
     const item = new Item("Arroz", "Para o almoço de final de ano", 50);
-
     expect(ong.addItem(item)).toBe(1);
   });
 });

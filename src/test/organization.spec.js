@@ -4,7 +4,7 @@ describe("Organization", () => {
   let organization;
   organization = new Organization("OrganizationTeste", 111111111111);
 
-  it("Should be defined", () => {
+  it("Should be defined Organization Class", () => {
     expect(organization).toBeDefined();
   });
 });
