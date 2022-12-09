@@ -1,18 +1,18 @@
 class OngList {
-    constructor() {
-      this.ongsList = [];
-    }
-  
-    addList(ong) {
-      this.ongsList.push(ong);
-      return this.ongsList;
-    }
-  
-    getOngByName(name) {
-      const item = this.ongsList.find((item) => item.name == name);
-      return item;
-    }
+  constructor() {
+    this.ongsList = [];
   }
-  
-  module.exports = OngList;
-  
+
+  addList(ong) {
+    this.ongsList.push(ong);
+    return this.ongsList;
+  }
+
+  getOngByName(name) {
+    const ongByName = this.ongsList.find((item) => item.name == name);
+    return ongByName;
+  }
+
+}
+
+module.exports = OngList;
