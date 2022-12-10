@@ -41,8 +41,3 @@ console.log(
   "[BUSCA NA LISTA DE ONGS POR NOME -->>]",
   ongsList.getOngByName("Creche Maria Claro")
 );
-
-console.log(
-  "[BUSCA NA LISTA DE ONGS POR CIDADE -->>]",
-  ongsList.getOngByCity("Itapetininga")
-);
